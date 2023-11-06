@@ -7,6 +7,8 @@ AIM:
 
 To create a manager database and execute DML queries using SQL.
 
+# DATE:
+
 
 DML(Data Manupulation Language)
 
@@ -129,6 +131,9 @@ OUTPUT:
 
 
 ![image](https://github.com/laxman2054/EX-2-Data-Manipulation-Language-DML-and-Data-Control-Language-DCL-Commands/assets/118680826/3955b2d1-7669-4e8d-aceb-6fa19b2a0ae3)
+
+
+# RESULT : THUS, THE OUTPUT IS VERIFED SUCCESFULLY.
 
 
 
